@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Basic Food Chain Model}{1}
+\contentsline {section}{\numberline {2}Disease in the Apex Predator}{1}
+\contentsline {section}{\numberline {3}Classification of Trivial Equilibria}{2}
+\contentsline {subsection}{\numberline {3.1}Analysis of the Equilibrium Point (1,0,0)}{2}
+\contentsline {subsection}{\numberline {3.2}Analysis of the Equilibrium Point (0,1,0)}{3}
+\contentsline {subsection}{\numberline {3.3}Analysis of the Equilibrium Point (0,0,1)}{4}
+\contentsline {subsection}{\numberline {3.4}Analysis of the Equilibrium Point (1,0,1)}{4}
+\contentsline {subsection}{\numberline {3.5}Coexistence of Two Populations}{5}
+\contentsline {section}{\numberline {4}Model Sensitivity to Disease}{6}
+\contentsline {subsection}{\numberline {4.1}Sensitivity to Disease in the Apex Predator}{6}
+\contentsline {subsection}{\numberline {4.2}Sensitivity to Disease in the Primary Heterotroph}{7}
+\contentsline {section}{\numberline {5}Effects of Parameters on Stability}{7}
+\contentsline {subsection}{\numberline {5.1}Effect of \(\gamma \) on Equilibrium Stability}{7}
+\contentsline {subsection}{\numberline {5.2}Effect of \(\beta \) on Equilibrium Stability}{7}
+\contentsline {section}{\numberline {6}Strengths and Weaknesses of the Model}{8}
